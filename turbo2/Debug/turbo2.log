@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\wsy\documents\visual studio 2017\projects\turbo2\turbo2\main.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wsy\documents\visual studio 2017\projects\turbo2\turbo2\main.cpp(113): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wsy\documents\visual studio 2017\projects\turbo2\turbo2\main.cpp(131): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wsy\documents\visual studio 2017\projects\turbo2\turbo2\main.cpp(136): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wsy\documents\visual studio 2017\projects\turbo2\turbo2\main.cpp(150): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wsy\documents\visual studio 2017\projects\turbo2\turbo2\main.cpp(151): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wsy\documents\visual studio 2017\projects\turbo2\turbo2\main.cpp(172): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wsy\documents\visual studio 2017\projects\turbo2\turbo2\main.cpp(175): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wsy\documents\visual studio 2017\projects\turbo2\turbo2\main.cpp(180): warning C4018: “<=”: 有符号/无符号不匹配
+c:\users\wsy\documents\visual studio 2017\projects\turbo2\turbo2\main.cpp(183): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wsy\documents\visual studio 2017\projects\turbo2\turbo2\main.cpp(204): warning C4018: “<”: 有符号/无符号不匹配
+  turbo2.vcxproj -> C:\Users\wsy\Documents\Visual Studio 2017\Projects\turbo2\Debug\turbo2.exe
+  turbo2.vcxproj -> C:\Users\wsy\Documents\Visual Studio 2017\Projects\turbo2\Debug\turbo2.pdb (Partial PDB)
